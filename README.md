@@ -13,7 +13,9 @@ Link to Watch the demonstration Video:
 4. If the package not installed issue arises, do "pip install <package-name>"
 5. If pip doesn't work, then install Python (if not there), or else try to add path in environment variables in your system.
 6. Then repeat step 3.
-7. A GUI (Graphic User Interface) should open.
+7. A GUI (Graphic User Interface) should open. See below.
+<img width="376" alt="image" src="https://github.com/SourabhRex/Vision-Hire/assets/67453283/2e87c37c-9401-4df7-9642-265a1732902d">
+
 8. Enter Credentials, followed by "capture images" (image capture takes  time to capture multiple images images so stay still).
 9. For The rest you can refer to the video provided above.
 
