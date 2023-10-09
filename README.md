@@ -1,4 +1,5 @@
-# Vision-Hire <img width="65" alt="image" src="https://github.com/SourabhRex/Vision-Hire/assets/67453283/2c811a4b-54ec-47dd-9f3f-a6dc501eeb78">
+# Vision-Hire <img width="63" alt="image" src="https://github.com/SourabhRex/Vision-Hire/assets/67453283/28ec4bdc-4a45-4134-8fcd-6eba00c850f0">
+
 
 A computer vision interview portal
 
