@@ -4,9 +4,9 @@ A computer vision interview portal
 Link to Watch the demonstration Video: 
 👉<a href="https://youtu.be/caa6na5b82A?si=2OnfX1tISzD0gLkn" target="_blank"> Click_Me </a>👈
 
-<u>Tools</u>: MediaPipe, Pytorch, OpenCV, Python, etc.
+<ins>Tools</ins>: MediaPipe, Pytorch, OpenCV, Python, etc.
 
-<u>Steps To Follow:-</u>
+<ins>Steps To Follow:-</ins>
 1. Just download the zip folder, and unzip it.
 2. Then at the same location open the command prompt (cmd is optional).
 3. run "python main_gui.py".
