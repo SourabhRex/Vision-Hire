@@ -1,4 +1,4 @@
-# Vision-Hire ![drcico](https://github.com/SourabhRex/Vision-Hire/assets/67453283/ef14b20d-fa64-46a3-9f37-2f2e1126379d)
+# Vision-Hire <img width="65" alt="image" src="https://github.com/SourabhRex/Vision-Hire/assets/67453283/2c811a4b-54ec-47dd-9f3f-a6dc501eeb78">
 
 A computer vision interview portal
 
